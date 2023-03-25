@@ -6,7 +6,7 @@
 
 </div>
 
-<div>
+<div align="center">
   <a href="https://github.com/pedroviniciusz">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=pedroviniciusz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroviniciusz&layout=compact&langs_count=7&theme=omni"/>
@@ -14,7 +14,7 @@
   
 <div>
   <h2 align="center">Tecnologias:</h2>
-   <p align="center">
+  <p align="center">
   <img align="center" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Kotlin" height="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Spring" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">&nbsp;&nbsp;&nbsp;
