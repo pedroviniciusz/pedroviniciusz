@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Code&pause=1000&color=7d0e7d&center=true&width=500&lines=Desenvolvedor+Back-End+Jr)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Code&pause=1000&color=cc04cc&center=true&width=500&lines=Desenvolvedor+Back-End+Jr)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,8 +27,12 @@
  </div>
  
   ##
+
+<div align="center">
+
+ ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroviniciusz&theme=omni) 
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pedroviniciusz&bg_color=000000&color=8B008B&line=7d0e7d&point=FF00FF&area=true&hide_border=true)](https://github.com/pedroviniciusz)
+</div>
   
 <div> 
   <h2 align="center">Contatos e Redes:</h2>
@@ -37,9 +41,6 @@
   <a href="https://www.linkedin.com/in/pedroviniciusz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:pedrovdejesus@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrovdejesus@gmail.com"></a>
  </div>
- 
-  ![Snake animation](https://github.com/pedroviniciusz/pedroviniciusz/blob/output/github-contribution-grid-snake.svg)
-  
   </div>
   
   <div align="center">
