@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/pedroviniciusz">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=pedroviniciusz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://stats-git-main-pedros-projects-7c0d68c1.vercel.app/api?username=pedroviniciusz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img width="45%" src="http://stats-git-main-pedros-projects-7c0d68c1.vercel.app/api/top-langs/?username=pedroviniciusz&layout=compact&theme=omni&exclude_repo=stats"/>
 </div>
   
