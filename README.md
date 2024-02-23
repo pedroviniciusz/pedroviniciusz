@@ -8,10 +8,10 @@
 
 <div align="center">
   <a >
-    <img height=200 align="center" src="https://stats-git-main-pedros-projects-7c0d68c1.vercel.app/api?username=pedroviniciusz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+    <img height=170 align="center" src="https://stats-git-main-pedros-projects-7c0d68c1.vercel.app/api?username=pedroviniciusz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   </a>
   <a>
-    <img height=200 align="center" src="https://stats-git-main-pedros-projects-7c0d68c1.vercel.app/api/top-langs/?username=pedroviniciusz&layout=compact&theme=omni&exclude_repo=stats&hide=javascript,html,css,ejs"/>
+    <img height=170 align="center" src="https://stats-git-main-pedros-projects-7c0d68c1.vercel.app/api/top-langs/?username=pedroviniciusz&layout=compact&theme=omni&exclude_repo=stats&hide=javascript,html,css,ejs"/>
   </a>
 </div>
   
