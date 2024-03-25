@@ -14,21 +14,16 @@
     <img height=170 align="center" src="https://stats-git-main-pedros-projects-7c0d68c1.vercel.app/api/top-langs/?username=pedroviniciusz&layout=compact&theme=omni&exclude_repo=stats&hide=javascript,html,css,ejs"/>
   </a>
 </div>
-  
+
 <div>
   <h2 align="center">Tecnologias:</h2>
   <p align="center">
-  <img align="center" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Kotlin" height="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Spring" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ubuntu" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Android" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Docker" height="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-plain-wordmark.svg">&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Heroku" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">&nbsp;&nbsp;&nbsp;
- </div>
- 
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,kotlin,python,spring,docker,rabbitmq,postgres,mysql,ubuntu,androidstudio" />
+    </a>
+  </p>
+</div> 
+  
   ##
 
 <div align="center">
