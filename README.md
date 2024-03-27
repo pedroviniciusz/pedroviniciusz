@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7d0e7d&height=160&section=header&text=Pedro%20Vinícius%20水&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Code&pause=1000&color=cc04cc&center=true&width=500&lines=Desenvolvedor+Back-End+Jr)](https://git.io/typing-svg)
-
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Code&pause=1000&color=cc04cc&center=true&width=500&lines=Desenvolvedor+Back-End+Jr)](https://git.io/typing-svg)
+  
 </div>
 
 <div align="center">
@@ -27,26 +27,17 @@
   ##
 
 <div align="center">
-
- ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroviniciusz&theme=omni) 
   
+   ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroviniciusz&theme=omni) 
+   
 </div>
   
-<div> 
-  <h2 align="center">Contatos e Redes:</h2>
-  <p align="center">
-  <a href = "mailto:pedrovdjesus@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:pedrovdejesus@gmail.com" target="_blank"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pedroviniciusz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:pedrovdejesus@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrovdejesus@gmail.com"></a>
- </div>
-  </div>
-  
-  <div align="center">
-    <br><p align="center"><b>Visitantes</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedroviniciusz}/count.svg" /></p> 
-    <br>
-  </div>
-  
+<div align="center"> 
+  <h2>Contatos e Redes:</h2>
+  <a href="mailto:pedrovdjesus@hotmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" alt="Outlook logo"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pedroviniciusz/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Linkedin logo"></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pedrovdejesus@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Gmail logo"></a>
+</div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7d0e7d&height=120&section=footer"/>
   
